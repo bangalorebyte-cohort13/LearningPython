@@ -1,0 +1,210 @@
+1. Write a Python program to display the current date and time.
+Sample Output :
+Current date and time :
+2014-07-05 14:34:14
+
+2. Write a Python program which accepts the radius of a circle from the user and compute the area
+
+3. Write a Python program to accept a filename from the user and print the extension of that.
+
+4. Write a Python program that accepts an integer (n) and computes the value of n+nn+nnn. 
+
+5. Write a Python program to print the calendar of a given month and year.
+
+6. Write a Python program to calculate number of days between two dates.
+
+7. Write a Python program to count the number 4 in a given list
+
+8. Write a Python program to get the n (non-negative integer) copies of the first 2 characters of a given string. Return the n copies of the whole string if the length is less than 2.
+
+9. Write a Python program to create a histogram from a given list of integers.
+
+10. Write a Python program to filter the positive numbers from a list
+
+11. Write a Python program to compute the product of a list of integers (without using for loop). 
+
+
+12. Write a Python program to print Unicode characters. 
+
+
+13. Write a Python program to prove that two string variables of same value point same memory location. 
+
+
+14. Write a Python program to create a bytearray from a list. 
+
+
+15. Write a Python program to display a floating number in specified numbers. 
+
+
+16. Write a Python program to format a specified string to limit the number of characters to 6. 
+
+
+17. Write a Python program to determine if variable is defined or not. 
+
+18. Write a Python program to empty a variable without destroying it. 
+Sample data: n=20
+d = {"x":200}
+Expected Output : 0
+{}
+
+19. Write a Python program to determine the largest and smallest integers, longs, floats. 
+
+
+20. Write a Python program to check if multiple variables have the same value. 
+
+
+21. Write a Python program to sum of all counts in a collections? 
+
+
+22. Write a Python program to get the actual module object for a given object. 
+
+
+23. Write a Python program to check if an integer fits in 64 bits. 
+
+
+24. Write a Python program to check if lowercase letters exist in a string. 
+
+25. Write a Python program to add leading zeroes to a string. 
+
+26. Write a Python program to use double quotes to display strings. 
+
+27. Write a Python program to split a variable length string into variables. 
+
+28. Write a Python program to list home directory without absolute path. 
+
+29. Write a Python program to calculate the time runs (difference between start and current time) of a program. 
+
+30. Write a Python program to input two integers in a single line. 
+
+
+31. Write a Python program to print a variable without spaces between values. 
+Sample value : x =30
+Expected output : Value of x is "30"
+
+32. Write a Python program to find files and skip directories of a given directory. 
+
+
+33. Write a Python program to extract single key-value pair of a dictionary in variables. 
+
+34. Write a Python program to convert true to 1 and false to 0. 
+
+35. Write a Python program to valid a IP address. 
+
+36. Write a Python program to convert an integer to binary keep leading zeros. 
+Sample data : 50
+Expected output : 00001100, 0000001100
+
+37. Write a python program to convert decimal to hexadecimal. 
+Sample decimal number: 30, 4
+Expected output: 1e, 04
+
+38. Write a Python program to find the operating system name, platform and platform release date. 
+Operating system name:
+posix
+Platform name:
+Linux
+Platform release:
+4.4.0-47-generic
+
+39. Write a Python program to determine if the python shell is executing in 32bit or 64bit mode on operating system. 
+
+
+40. Write a Python program to check if variable is of integer or string. 
+
+41. Write a Python program to find the operating system name, platform and platform release date. 
+Operating system name:
+posix
+Platform name:
+Linux
+Platform release:
+4.4.0-47-generic
+
+42. Write a Python program to find the location of Python module sources. 
+Operating system name:
+posix
+Platform name:
+Linux
+Platform release:
+4.4.0-47-generic
+
+43. Write a Python function to check whether a number is divisible by another number. Accept two integers values form the user. 
+
+44. Write a Python function to find the maximum and minimum numbers from a sequence of numbers. 
+Note: Do not use built-in functions.
+
+
+45. Write a Python function that takes a positive integer and returns the sum of the cube of all the positive integers smaller than the specified number. 
+
+46. Write a Python function to find a distinct pair of numbers whose product is odd from a sequence of integer values. 
+
+47. Write a Python function that takes a sequence of numbers and determines if all the numbers are different from each other. 
+
+48. Write a Python program to create all possible strings by using 'a', 'e', 'i', 'o', 'u'. Use the characters exactly once. 
+
+
+49. Write a Python program to remove and print every third number from a list of numbers until the list becomes empty.
+
+
+50. Write a Python program to find unique triplets whose three elements gives the sum of zero from an array of n integers. 
+
+
+51. Write a Python program to create the combinations of 3 digit combo. 
+
+
+52. Write a Python program to print a long text, convert the string to a list and print all the words and their frequencies. 
+
+
+53. Write a Python program to count the number of each character of a given text of a text file. 
+
+
+54. Write a Python program to get the top stories from Google news. 
+
+
+55. Write a Python program to get a list of locally installed Python modules. 
+
+
+56. Write a Python program to display some information about the OS where the script is running. 
+
+
+57. Write a Python program to check the sum of three elements (each from an array) from three arrays is equal to a target value. Print all those three-element combinations. 
+Sample data:
+/*
+X = [10, 20, 20, 20]
+Y = [10, 20, 30, 40]
+Z = [10, 30, 40, 20]
+target = 70
+*/
+
+
+58. Write a Python program to create all possible permutations from a given collection of distinct numbers.
+
+
+59. Write a Python program to get all possible two digit letter combinations from a digit (1 to 9) string. 
+string_maps = {
+"1": "abc",
+"2": "def",
+"3": "ghi",
+"4": "jkl",
+"5": "mno",
+"6": "pqrs",
+"7": "tuv",
+"8": "wxy",
+"9": "z"
+}
+
+
+60. Write a Python program to add two positive integers without using the '+' operator. 
+Note: Use bitwise operations to add two numbers.
+
+
+61. Write a Python program to check the priority of the four operators (+, -, *, /). 
+
+
+62. Write a Python program to get the third side of right angled triangle from two given sides. 
+
+
+63. Write a Python program to get all strobogrammatic numbers that are of length n. 
+A strobogrammatic number is a number whose numeral is rotationally symmetric, so that it appears the same when rotated 180 degrees. In other words, the numeral looks the same right-side up and upside down (e.g., 69, 96, 1001).
+For example,
+Given n = 2, return ["11", "69", "88", "96"].
+Given n = 3, return ['818', '111', '916', '619', '808', '101', '906', '609', '888', '181', '986', '689']
